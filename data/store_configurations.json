@@ -114,7 +114,7 @@
           "path": "web/default/cms_home_page",
           "scope": "stores",
           "scope_code": "luma_b2c_us",
-          "value": "luma-b2c-home"
+          "value": "luma-b2c-us-home"
         }
       ]
     }
