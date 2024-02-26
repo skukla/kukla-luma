@@ -1,0 +1,17 @@
+{
+  "name": "kukla/vertical-data-luma",
+  "description": "A variant of the Luma brand by Steve Kukla",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kukla\\Luma\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
