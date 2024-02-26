@@ -101,13 +101,13 @@
         {
           "path": "design/head/includes",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "luma_b2c_us",
           "value": "<link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"{{MEDIA_URL}}styles.css\" />"
         },
         {
           "path": "design/head/shortcut_icon",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "luma_b2c_us",
           "value": "stores/lumafavicon.png"
         },
         {
