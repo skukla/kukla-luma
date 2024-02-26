@@ -1,0 +1,488 @@
+{
+    "data": {
+        "upsells": {
+            "items": [
+                {
+                    "rule_id": 1,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Top Hoodies",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 2,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Top Jackets",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 3,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Top Tees",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 4,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Top Bras",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 5,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Bottom Pants",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 6,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Women Bottom Shorts",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 7,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Top Hoodies",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 8,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Top Jackets",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 9,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Top Tees",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 10,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Top Bras",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 11,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Bottom Pants",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 12,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Men Bottom Shorts",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 13,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gear Bags",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 14,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gear Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 15,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gear Fitness Equipment - Bags",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 16,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"training-video\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gear Video - Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 17,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"training-video\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gear Video - Bags",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 18,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"gift-cards\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gift Cards - Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 19,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"gift-cards\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products Gift Cards - Bags",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 20,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Hoodies - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 21,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Hoodies - Pants",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 22,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Jackets - Hoodies",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 23,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Jackets - Pants",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 24,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Bras  - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 25,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Top Bras  - Shorts",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 26,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Bottoms Shorts - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 27,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Women Bottoms Shorts - Bras",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 28,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Hoodies - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 29,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Hoodies - Pants",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 30,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Jackets - Hoodies",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 31,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"jackets-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Jackets - Pants",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 32,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Tanks  - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 33,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Top Tanks  - Shorts",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 34,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Bottoms Shorts - Tees",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 35,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tanks-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"shorts-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Men Bottoms Shorts - Tanks",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 36,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Gear Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 37,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"training-video\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells Training Video",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 38,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"gift-cards\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Gift Cards - Bags",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 39,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"gift-cards\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Gift Cards - Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 2
+                },
+                {
+                    "rule_id": 40,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells Women Top Tees",
+                    "sort_order": 0,
+                    "positions_limit": 20
+                },
+                {
+                    "rule_id": 41,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells Women Bottoms Pants",
+                    "sort_order": 0,
+                    "positions_limit": 20
+                },
+                {
+                    "rule_id": 42,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"tees-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells Men Top Tees",
+                    "sort_order": 0,
+                    "positions_limit": 20
+                },
+                {
+                    "rule_id": 43,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells Men Bottoms Pants",
+                    "sort_order": 0,
+                    "positions_limit": 20
+                },
+                {
+                    "rule_id": 44,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells Gear Bags",
+                    "sort_order": 0,
+                    "positions_limit": 20
+                },
+                {
+                    "rule_id": 45,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"any\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"},{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"},{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"fitness-equipment\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "crosssell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"bags\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Cross-sells - Bags to Hoodies and Fitness Equipment",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 46,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"watches\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"},{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"price\",\"operator\":\">=\",\"value\":0,\"is_value_processed\":false,\"value_type\":\"same_as\"}]}",
+                    "apply_to": "upsell",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"watches\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Up-sells - Watches",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 47,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-women\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-women\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products - Women's Hoodies to Women's Pants",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                },
+                {
+                    "rule_id": 48,
+                    "actions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Actions\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"hoodies-and-sweatshirts-men\"}}\",\"is_value_processed\":false,\"value_type\":\"constant\"}]}",
+                    "apply_to": "related",
+                    "conditions_serialized": "{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\TargetRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Attributes\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"pants-men\"}}\",\"is_value_processed\":false}]}",
+                    "customer_segments": "all",
+                    "name": "Related Products - Men's Pants to Men's Hoodies (Segmented)",
+                    "sort_order": 0,
+                    "positions_limit": 4
+                }
+            ]
+        }
+    }
+}

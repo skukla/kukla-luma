@@ -1,0 +1,9 @@
+{
+    "data": {
+        "dataInstallerStoreSettings": {
+            "store_code": "luma_b2c_store",
+            "store_view_code": "default",
+            "site_code": "base"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "customerGroups": {
+            "items": [
+                {
+                    "name": "VIP",
+                    "tax_class": "Retail Customer"
+                }
+            ]
+        }
+    }
+}
