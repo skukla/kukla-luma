@@ -1,116 +1,116 @@
 {
-    "data": {
-        "storeConfigurations": {
-            "items": [
-                {
-                    "path": "btob/website_configuration/company_active",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "btob/website_configuration/negotiablequote_active",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "btob/website_configuration/quickorder_active",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "btob/website_configuration/requisition_list_active",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "catalog/magento_catalogpermissions/enabled",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "catalog/magento_catalogpermissions/grant_catalog_category_view",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "catalog/magento_catalogpermissions/grant_catalog_product_price",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "catalog/magento_catalogpermissions/grant_checkout_items",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "0"
-                },
-                {
-                    "path": "catalog/magento_catalogpermissions/restricted_landing_page",
-                    "scope": "default",
-                    "scope_code": "default",
-                    "value": "no-route"
-                },
-                {
-                    "path": "design/head/shortcut_icon",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "stores/lumafavicon.png"
-                },
-                {
-                    "path": "design/head/includes",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "<link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"{{MEDIA_URL}}styles.css\" />"
-                },
-                {
-                    "path": "design/head/includes",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "<link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"{{MEDIA_URL}}styles.css\" />"
-                },
-                {
-                    "path": "design/head/shortcut_icon",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "stores/lumafavicon.png"
-                },
-                {
-                    "path": "design/header/welcome",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": ""
-                },
-                {
-                    "path": "general/store_information/name",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "Luma, Inc."
-                },
-                {
-                    "path": "web/default/cms_home_page",
-                    "scope": "stores",
-                    "scope_code": "default",
-                    "value": "home"
-                }
-            ]
+  "data": {
+    "storeConfigurations": {
+      "items": [
+        {
+          "path": "btob/website_configuration/company_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/negotiablequote_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/quickorder_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/requisition_list_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "catalog/magento_catalogpermissions/enabled",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "catalog/magento_catalogpermissions/grant_catalog_category_view",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "catalog/magento_catalogpermissions/grant_catalog_product_price",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "catalog/magento_catalogpermissions/grant_checkout_items",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "catalog/magento_catalogpermissions/restricted_landing_page",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "no-route"
+        },
+        {
+          "path": "design/header/welcome",
+          "scope": "default",
+          "scope_code": "default",
+          "value": ""
+        },
+        {
+          "path": "design/head/shortcut_icon",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "stores/lumafavicon.png"
+        },
+        {
+          "path": "design/head/includes",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "<link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"{{MEDIA_URL}}styles.css\" />"
+        },
+        {
+          "path": "general/store_information/name",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "Luma, Inc."
+        },
+        {
+          "path": "web/default/cms_home_page",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "home"
+        },
+        {
+          "path": "design/head/includes",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "<link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"{{MEDIA_URL}}styles.css\" />"
+        },
+        {
+          "path": "design/head/shortcut_icon",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "stores/lumafavicon.png"
         }
+      ]
     }
+  }
 }
