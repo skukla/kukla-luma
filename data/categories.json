@@ -290,6 +290,7 @@
         {
           "id": 6,
           "store_view_code": "luma_b2c_us",
+          "original_name": "Watches",
           "name": "Watches",
           "url_key": "watches",
           "path": "Gear",
