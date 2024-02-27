@@ -25,6 +25,27 @@
           "custom_design": null
         },
         {
+          "store_view_code": "luma_b2c_us",
+          "original_name": "Collections",
+          "name": "Collections",
+          "url_key": "collections",
+          "path": "",
+          "include_in_menu": 0,
+          "is_active": true,
+          "is_anchor": 1,
+          "position": 1,
+          "landing_page_id": null,
+          "landing_page": null,
+          "description": null,
+          "display_mode": null,
+          "meta_description": null,
+          "meta_keywords": null,
+          "meta_title": null,
+          "page_layout": null,
+          "custom_design_id": null,
+          "custom_design": null
+        },
+        {
           "id": 8,
           "store_view_code": "luma_b2c_us",
           "original_name": "New Luma Yoga Collection",
