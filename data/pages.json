@@ -3,7 +3,7 @@
     "cmsPages": {
       "items": [
         {
-          "store_view_code": "default",
+          "store_view_code": "luma_b2c_us",
           "identifier": "luma-b2c-us-home",
           "title": "Luma B2C Home Page - US",
           "page_layout": "cms-full-width",
