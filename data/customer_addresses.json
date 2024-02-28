@@ -1,7 +1,0 @@
-{
-  "data": {
-    "customerAddressExport": {
-      "data": "[[\"_website\",\"_email\",\"_entity_id\",\"city\",\"company\",\"country_id\",\"fax\",\"firstname\",\"lastname\",\"middlename\",\"postcode\",\"prefix\",\"region\",\"region_id\",\"street\",\"suffix\",\"telephone\",\"vat_id\",\"vat_is_valid\",\"vat_request_date\",\"vat_request_id\",\"vat_request_success\",\"_address_default_billing_\",\"_address_default_shipping_\"],[\"luma_b2c\",\"roni_cost@example.com\",\"1\",\"Calder\",\"\",\"US\",\"\",\"Veronica\",\"Costello\",\"\",\"49628-7978\",\"\",\"Michigan\",\"33\",\"6146 Honey Bluff Parkway\",\"\",\"(555) 229-3326\",\"\",\"\",\"\",\"\",\"\",\"1\",\"1\"],[\"luma_b2c\",\"vip@thelumastory.com\",\"2\",\"San Diego\",\"\",\"US\",\"\",\"Sharon\",\"Reynolds\",\"\",\"92103\",\"\",\"California\",\"12\",\"4346 Parkway Street\",\"\",\"(555) 229-3326\",\"\",\"\",\"\",\"\",\"\",\"1\",\"1\"],[\"luma_b2c\",\"runner@thelumastory.com\",\"3\",\"Ithaca\",\"\",\"US\",\"\",\"Mark\",\"Woodward\",\"\",\"14853\",\"\",\"New York\",\"43\",\"500 Buckhannan Avenue\",\"\",\"(555) 229-3326\",\"\",\"\",\"\",\"\",\"\",\"1\",\"1\"],[\"luma_b2c\",\"yoga@thelumastory.com\",\"4\",\"Chicago\",\"\",\"US\",\"\",\"Lisa\",\"Firey\",\"\",\"60606\",\"\",\"Illinois\",\"23\",\"3903 Lewis Street\",\"\",\"(555) 229-3326\",\"\",\"\",\"\",\"\",\"\",\"1\",\"1\"]]"
-    }
-  }
-}
