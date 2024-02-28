@@ -1,5 +1,5 @@
 email,_website,_store,website_id,store_id,created_in,prefix,firstname,middlename,lastname,suffix,dob,taxvat,confirmation,created_at,gender,lock_expires,preferred_activities,password
-roni_cost@example.com,luma_b2c,luma_b2c_us,1,1,Default Store View,,Veronica,,Costello,,1973-12-15,,,2023-12-07 16:31:16,Female,,,Password1
-vip@thelumastory.com,luma_b2c,luma_b2c_us,1,1,Default Store View,,Sharon,,Reynolds,,1973-12-15,,,2023-12-07 16:35:10,Female,,,Password1
-runner@thelumastory.com,luma_b2c,luma_b2c_us,1,1,Default Store View,,Mark,,Woodward,,1995-02-05,,,2023-12-07 16:35:10,Male,,Running,Password1
-yoga@thelumastory.com,luma_b2c,luma_b2c_us,1,1,Default Store View,,Lisa,,Firey,,1981-06-09,,,2023-12-07 16:35:10,Female,,,Password1
+roni_cost@example.com,luma_b2c,luma_b2c_us,1,1,US English,,Veronica,,Costello,,1973-12-15,,,2023-12-07 16:31:16,Female,,,Password1
+vip@thelumastory.com,luma_b2c,luma_b2c_us,1,1,US English,,Sharon,,Reynolds,,1973-12-15,,,2023-12-07 16:35:10,Female,,,Password1
+runner@thelumastory.com,luma_b2c,luma_b2c_us,1,1,US English,,Mark,,Woodward,,1995-02-05,,,2023-12-07 16:35:10,Male,,Running,Password1
+yoga@thelumastory.com,luma_b2c,luma_b2c_us,1,1,US English,,Lisa,,Firey,,1981-06-09,,,2023-12-07 16:35:10,Female,,,Password1
